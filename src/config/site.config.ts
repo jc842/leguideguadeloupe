@@ -12,11 +12,11 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "PBN Starter Template",
-  domain: "example.com",
-  url: "https://example.com",
-  description: "Modèle universel Astro 5 + Keystatic + i18n pour réseau PBN Cloudflare.",
-  repo: "jc842/pbn-template",
+  name: "Le Guide Guadeloupe — Communes, Plages, Patrimoine & Conseils Locaux",
+  domain: "leguideguadeloupe.com",
+  url: "https://leguideguadeloupe.com",
+  description: "Le guide indépendant de référence de la Guadeloupe : exploration des 32 communes de Grande-Terre, Basse-Terre et des îles, plages préservées, cascades et gastronomie créole.",
+  repo: "jc842/leguideguadeloupe",
 
   i18n: {
     defaultLocale: "fr",
@@ -25,14 +25,14 @@ export const siteConfig: SiteConfig = {
   },
 
   theme: {
-    style: "editorial",
-    fontFamily: "sans",
-    colorScheme: "emerald",
+    style: "lexington-quartiere",
+    fontFamily: "Geist, sans-serif",
+    colorScheme: "slate-minimal",
   },
 
   matomo: {
     url: "https://analytics.les4h.fr/",
-    siteId: "1",
+    siteId: "107",
   },
 
   revive: {
@@ -47,9 +47,9 @@ export const siteConfig: SiteConfig = {
 
   legal: {
     editor: "Éditeur indépendant",
-    address: "Union Européenne",
-    contactEmail: "contact@example.com",
-    hostName: "Cloudflare Pages",
+    address: "Guadeloupe / France",
+    contactEmail: "contact@leguideguadeloupe.com",
+    hostName: "Cloudflare Pages & Hetzner",
     hostAddress: "Union Européenne",
   },
 };
