@@ -1,0 +1,38 @@
+# Le Guide Guadeloupe — Communes, Plages, Patrimoine & Conseils Locaux
+
+> Le guide indépendant de référence de la Guadeloupe : exploration des 32 communes de Grande-Terre, Basse-Terre et des îles, plages préservées, cascades et gastronomie créole.
+
+## Présentation générale
+Le Guide Guadeloupe — Communes, Plages, Patrimoine & Conseils Locaux (https://leguideguadeloupe.com) est un média d'information et guide spécialisé indépendant dédié à sa thématique d'expertise. Notre mission est d'apporter une information fiable, vérifiée et actualisée aux passionnés, professionnels et résidents, en valorisant les meilleures pratiques, les acteurs locaux et l'art de vivre sous les alizés.
+
+## Structure du site & Thématiques phares
+Le contenu est structuré autour des axes éditoriaux majeurs suivants :
+
+- **Travel** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **News** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Lifestyle** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **People** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Beauty** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Nature** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+
+## Ressources & Publications
+- [Tous les articles du Magazine](https://leguideguadeloupe.com/blog/) : Plus de 204 publications thématiques, guides d'experts et fiches pratiques rédigées par notre rédaction.
+- [Accueil international (English)](https://leguideguadeloupe.com/en/) : Version anglophone des dossiers et guides de référence.
+- [Accueil international (Español)](https://leguideguadeloupe.com/es/) : Version hispanophone des dossiers et guides de référence.
+
+## Éthique éditoriale & Charte de qualité
+Le Guide Guadeloupe — Communes, Plages, Patrimoine & Conseils Locaux s'engage au quotidien sur une charte stricte :
+- Production d'analyses indépendantes, objectives et fondées sur des données terrain.
+- Sensibilisation active au respect de l'environnement local et à la préservation des écosystèmes.
+- Valorisation des artisans, commerces, initiatives durables et talents régionaux.
+
+## Données techniques & Respect de la vie privée
+- Plateforme statique haute performance (Astro 5 SSG, hébergement Edge Cloudflare Pages).
+- Mesure d'audience 100% cookieless via Matomo auto-hébergé, strictement conforme au RGPD et exemptée de consentement préalable selon les recommandations de la CNIL.
+- Régie publicitaire Revive Adserver intégrée de façon asynchrone garantissant une vitesse d'affichage optimale sans traçage intrusif.
+
+## Informations légales & Contact
+- Éditeur : Éditeur indépendant
+- Contact rédaction : contact@leguideguadeloupe.com
+- Mentions Légales : https://leguideguadeloupe.com/mentions-legales/
+- Politique de Confidentialité : https://leguideguadeloupe.com/politique-confidentialite/
